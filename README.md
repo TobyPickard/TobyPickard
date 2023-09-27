@@ -12,6 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyPickard&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyPickard&layout=donut-vertical)](https://github.com/TobyPickard/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyPickard&layout=pie)](https://github.com/TobyPickard/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyPickard&hide_progress=true)
 
 <!--
 Here are some ideas to get you started:
