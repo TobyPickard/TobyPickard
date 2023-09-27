@@ -7,7 +7,7 @@
 ## Languages and Tools
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TobyPickard&theme=onedark&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyPickard)](https://github.com/TobyPickard/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
