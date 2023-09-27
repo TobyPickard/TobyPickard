@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-<!--
-**TobyPickard/TobyPickard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me
 
+## Things I code with
+
+## Languages and Tools
+
+### :fire: My Stats :
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
