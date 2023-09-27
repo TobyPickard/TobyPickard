@@ -7,6 +7,8 @@
 ## Languages and Tools
 
 ### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobyPickard&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyPickard&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyPickard&hide_progress=true)
 
