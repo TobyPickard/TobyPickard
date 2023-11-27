@@ -15,10 +15,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobyPickard&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyPickard&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobyPickard&hide_progress=true)
-
-
