@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Connect with me 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/toby-pickard-84bb53175)
 
 ### Languages and Tools
 <div>
